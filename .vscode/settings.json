@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    ".git": true,
+    "node_modules": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.arrowParens": "avoid",
+  "[html]": {
+    "editor.foldingStrategy": "indentation"
+  }
+}

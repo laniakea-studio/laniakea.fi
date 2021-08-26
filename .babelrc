@@ -1,0 +1,5 @@
+// Adding Styled Components https://dev.to/adambaialiev/how-to-add-styled-components-to-next-js-project-using-typescript-2nl4
+{
+  "presets": ["next/babel"],
+  "plugins": [["styled-components", { "ssr": true }]]
+}
